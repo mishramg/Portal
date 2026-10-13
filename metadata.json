@@ -1,0 +1,6 @@
+{
+  "name": "Kamlawati Display Private Limited (KDPL) Portal",
+  "description": "Enterprise operations portal for Kamlawati Display Private Limited (KDPL) - Multi-role staff attendance, site visit logs, employee documents, CRM workflow, and real-time operations.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
